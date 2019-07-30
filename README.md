@@ -16,6 +16,8 @@
 - Facetime, iMessage, iCloud
 - Graphics acceleration
 - USB 2.0/3.0 ports
+- HDMI (4k/1080p)
+- HDMI audio/headphone jack
 
 ## Not Working
 - Wi-fi (wifi card is soldered on, so can't be replaced)
