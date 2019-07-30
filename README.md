@@ -14,13 +14,16 @@
 
 ## Working
 - Facetime, iMessage, iCloud
-- Graphics acceleration
-- USB 2.0/3.0 ports
+- Graphics acceleration on the Iris 650 Plus
+- USB 2.0/3.0 native ports
 - HDMI (4k/1080p)
 - HDMI audio/headphone jack
+- macOS app store
+
 
 ## Not Working
 - Wi-fi (wifi card is soldered on, so can't be replaced)
+- Bluetooth (also soldered on)
 
 ## Screenshots
 ![Clover Bootloader](https://i.imgur.com/wi50UsP.png)
