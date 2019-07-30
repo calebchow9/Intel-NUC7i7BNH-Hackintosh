@@ -12,5 +12,13 @@
 
 ## Config.plist
 
+## Working
+- Facetime, iMessage, iCloud
+- Graphics acceleration
+- USB 2.0/3.0 ports
+
+## Not Working
+- Wi-fi (wifi card is soldered on, so can't be replaced)
+
 ## Screenshots
 ![enter image description here](https://i.imgur.com/NGOEPch.jpg)
