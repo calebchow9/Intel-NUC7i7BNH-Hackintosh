@@ -23,4 +23,5 @@
 - Wi-fi (wifi card is soldered on, so can't be replaced)
 
 ## Screenshots
-![enter image description here](https://i.imgur.com/NGOEPch.jpg)
+![Clover Bootloader](https://i.imgur.com/wi50UsP.png)
+![Mojave Desktop](https://i.imgur.com/NGOEPch.jpg)
