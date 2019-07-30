@@ -1,7 +1,7 @@
 ## Specs
  - Processor: i7-7567U (Kaby Lake)
  - Graphics: Intel Iris Plus Graphics 650
- - SSD: Samsung SSD 850 EVO M.2 500 GB
+ - SSD: Samsung SSD 850 EVO M.2 500 GB (dual-boot Windows/macOS)
 
 ## Kexts
 - AppleALC: fixes audio output
