@@ -29,13 +29,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					U0FUMA==
-					</data>
+					<data>U0FUMA==</data>
 					<key>Replace</key>
-					<data>
-					U0FUQQ==
-					</data>
+					<data>U0FUQQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -43,13 +39,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					WEhDSQ==
-					</data>
+					<data>WEhDSQ==</data>
 					<key>Replace</key>
-					<data>
-					WEhDXw==
-					</data>
+					<data>WEhDXw==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -57,13 +49,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					WEhDMQ==
-					</data>
+					<data>WEhDMQ==</data>
 					<key>Replace</key>
-					<data>
-					WEhDXw==
-					</data>
+					<data>WEhDXw==</data>
 				</dict>
 			</array>
 		</dict>
@@ -112,9 +100,7 @@
 				<key>framebuffer-con1-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-con1-type</key>
-				<data>
-				AAgAAA==
-				</data>
+				<data>AAgAAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<integer>1</integer>
 			</dict>
@@ -166,17 +152,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				45787465726E616C
-				</data>
+				<data>45787465726E616C</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>AppleAHCIPort</string>
 				<key>Replace</key>
-				<data>
-				496E7465726E616C
-				</data>
+				<data>496E7465726E616C</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -184,17 +166,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				83FB0F0F838F0400
-				</data>
+				<data>83FB0F0F838F0400</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com/apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>
-				83FB0F9090909090
-				</data>
+				<data>83FB0F9090909090</data>
 			</dict>
 		</array>
 	</dict>
@@ -216,7 +194,7 @@
 		<key>ProductName</key>
 		<string>iMac18,1</string>
 		<key>SerialNumber</key>
-		<string>C07T5BZJJ1G5</string>
+		<string></string>
 		<key>SmUUID</key>
 		<string>1572CEA2-BC1B-42FB-BE24-575E4F118083</string>
 		<key>Version</key>
