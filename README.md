@@ -33,11 +33,11 @@
 - HDMI (4k/1080p)
 - HDMI audio/headphone jack
 - macOS app store
-
+- Wi-Fi (using a USB dongle)
+- Bluetooth (using a USB dongle)
 
 ## Not Working
-- Wi-fi (wifi card is soldered on, so can't be replaced)
-- Bluetooth (also soldered on)
+- Airdrop/Handoff/Continuity: impossible without replacing the soldered Intel card
 
 ## Screenshots
 ![Clover Bootloader](https://i.imgur.com/wi50UsP.png)
