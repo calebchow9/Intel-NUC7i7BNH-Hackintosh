@@ -41,4 +41,4 @@
 
 ## Screenshots
 ![Clover Bootloader](https://i.imgur.com/wi50UsP.png)
-![Mojave Desktop](https://i.imgur.com/NGOEPch.jpg)
+![Mojave Desktop](https://i.imgur.com/ZqsbY63.png)
